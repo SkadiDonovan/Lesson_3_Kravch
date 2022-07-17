@@ -1,0 +1,15 @@
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\obj\Debug\net6.0\Tusk_21.csproj.AssemblyReference.cache
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\obj\Debug\net6.0\Tusk_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\obj\Debug\net6.0\Tusk_21.AssemblyInfoInputs.cache
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\obj\Debug\net6.0\Tusk_21.AssemblyInfo.cs
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\obj\Debug\net6.0\Tusk_21.csproj.CoreCompileInputs.cache
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\bin\Debug\net6.0\Tusk_21.exe
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\bin\Debug\net6.0\Tusk_21.deps.json
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\bin\Debug\net6.0\Tusk_21.runtimeconfig.json
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\bin\Debug\net6.0\Tusk_21.dll
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\bin\Debug\net6.0\Tusk_21.pdb
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\obj\Debug\net6.0\Tusk_21.dll
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\obj\Debug\net6.0\refint\Tusk_21.dll
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\obj\Debug\net6.0\Tusk_21.pdb
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\obj\Debug\net6.0\Tusk_21.genruntimeconfig.cache
+C:\Users\Nusha\Desktop\gb education\HW3\Homework_3\Tusk_21\obj\Debug\net6.0\ref\Tusk_21.dll
